@@ -1,0 +1,23 @@
+{
+  "name": "eo1-workaround",
+  "version": "1.0.0",
+  "description": "Bringing EO1 back from the dead 🎨🧟",
+  "main": "fetchArt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christianboyle/eo1-workaround.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/christianboyle/eo1-workaround/issues"
+  },
+  "homepage": "https://github.com/christianboyle/eo1-workaround#readme",
+  "dependencies": {
+    "art-club-redux": "github:christianboyle/art-club-redux"
+  }
+}
