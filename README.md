@@ -43,6 +43,7 @@ Bringing EO1 back from the dead 🎨🧟
 
 1. We need to use Firefox instead of the default browser Android 4 (EO1's operating system) ships with, because it has support for the fullscreen API
 2. We need to sideload Firefox, because we don't have access to the Google Play Store
-3. We can't use the hardware button or `F2` shortcut to toggle EO1 on/off, so unplugging is your only option
-4. gifs render poorly when scaled up and I'm not sure what the secret sauce is to fix this, for now I recommend using 1080x1920 static images
-5. You can adjust the brightness of the display manually by dragging down the top right corner of the Android UI and using the brightness slider control
+3. The method to sideload Firefox was found in [this support ticket](https://support.mozilla.org/en-US/questions/1103697)
+4. We can't use the hardware button or `F2` shortcut to toggle EO1 on/off, so unplugging is your only option
+5. gifs render poorly when scaled up and I'm not sure what the secret sauce is to fix this, for now I recommend using 1080x1920 static images
+6. You can adjust the brightness of the display manually by dragging down the top right corner of the Android UI and using the brightness slider control
