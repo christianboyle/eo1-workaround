@@ -4,5 +4,5 @@ const updateImage = () => {
   }?v=${new Date().getTime()}`
   console.log(`Image updated to: ${jsonData[currentIndex].src}`)
   currentIndex = (currentIndex + 1) % jsonData.length
-  setTimeout(updateImage, 5 * 10 * 1000)
+  setTimeout(updateImage, 3600000)
 }
